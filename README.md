@@ -14,7 +14,7 @@ git clone https://github.com/s9515411757/todo.git
 
 2) Или через PyCharm:
 - нажмите на кнопку **Get from VCS**:
-![alt text]([https://raw.githubusercontent.com/WISEPLAT/imgs_for_repos/master/get_from_vcs.jpg ](https://github.com/s9515411757/todo.git))
+![alt text]([https://raw.githubusercontent.com/WISEPLAT/imgs_for_repos/master/get_from_vcs.jpg ](https://github.com/s9515411757/translation_is_selsia_in_farenheit.git))
 
 Вот ссылка на этот проект:
 ```shell
